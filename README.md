@@ -1,29 +1,44 @@
-Automated User Manual Generator for Websites
-📘 Project Overview
+📝 Automated User Manual
 
-This project automates the creation of user manuals for websites by capturing user interactions and converting them into structured, step-by-step documentation. It aims to simplify documentation while maintaining clarity, accuracy, and consistency.
+Hi there! 👋 I’m Pavithra, and this project is an Automated User Manual Generator that simplifies documenting web applications and workflows.
 
-🚀 Solution
+🌟 Overview
 
-The system records user actions on a website and intelligently transforms them into clear, readable instructions. These instructions are organized into a logical sequence and compiled into a professional user manual that can be exported as a PDF.
+Creating user manuals manually can be time-consuming and error-prone, especially for complex web applications or frequently updated tools. This project solves that problem by automatically generating step-by-step user manuals with minimal effort.
 
-⚙️ Key Features
+The system captures screenshots, extracts text content, and organizes every interaction into a structured, easy-to-read guide. The final output is a ready-to-share PDF manual, saving hours of manual documentation work.
 
-Automated recording of user interactions
+Whether you’re building internal tools, SaaS products, or participating in hackathons, this tool makes documentation fast, accurate, and professional.
 
-Step-by-step instruction generation
+✨ Features
 
-Consistent and professional documentation format
+📸 Automatic Screenshots – Capture every important step or page interaction.
 
-Exportable PDF output
+📝 Step-by-Step Instructions – Extracts relevant text for clear guidance.
 
-🎯 Use Cases
+🤖 Smart Organization – AI-assisted structuring of steps for readability.
 
-Website and application documentation
+📄 PDF Export – Generate professional manuals ready for sharing.
 
-Product onboarding and training materials
+🌐 Universal Compatibility – Works across web applications and interfaces.
 
-QA and testing reference guides
+💡 Use Cases
 
-Internal process documentation
+SaaS applications needing quick user guides
+
+Internal tools with frequent updates
+
+Hackathons or projects requiring fast documentation
+
+Teams wanting consistent and professional manuals
+
+🛠️ Tech Stack
+
+Browser & Web Tools – Capturing screens and interactions
+
+AI-Assisted Processing – Structuring and refining steps
+
+PDF Generation – Producing the final manual
+
+Note: Sensitive internal tools have been abstracted to maintain privacy.
 
