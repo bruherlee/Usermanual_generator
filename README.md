@@ -1,28 +1,29 @@
-
-
 Automated User Manual Generator for Websites
-📌 Overview
+📘 Project Overview
 
-A tool that automatically generates step-by-step user manuals for websites by recording user interactions and converting them into clear documentation.
+This project automates the creation of user manuals for websites by capturing user interactions and converting them into structured, step-by-step documentation. It aims to simplify documentation while maintaining clarity, accuracy, and consistency.
 
-This helps reduce the time and effort required to manually create user guides.
+🚀 Solution
 
-🚀 Key Features
+The system records user actions on a website and intelligently transforms them into clear, readable instructions. These instructions are organized into a logical sequence and compiled into a professional user manual that can be exported as a PDF.
 
-Records user interactions on websites
+⚙️ Key Features
 
-Automatically generates step-by-step instructions
+Automated recording of user interactions
 
-Converts actions into readable documentation
+Step-by-step instruction generation
 
-Exports the user manual as a PDF
+Consistent and professional documentation format
+
+Exportable PDF output
 
 🎯 Use Cases
 
-Website user documentation
+Website and application documentation
 
-Product onboarding guides
+Product onboarding and training materials
 
-QA and testing documentation
+QA and testing reference guides
 
-Internal process manuals
+Internal process documentation
+
