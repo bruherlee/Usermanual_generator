@@ -23,15 +23,6 @@ Whether you’re building internal tools, SaaS products, or participating in hac
 
 🌐 Universal Compatibility – Works across web applications and interfaces.
 
-💡 Use Cases
-
-SaaS applications needing quick user guides
-
-Internal tools with frequent updates
-
-Hackathons or projects requiring fast documentation
-
-Teams wanting consistent and professional manuals
 
 🛠️ Tech Stack
 
